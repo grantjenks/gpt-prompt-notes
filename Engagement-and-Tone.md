@@ -25,3 +25,5 @@ These sentences and phrasings are intentionally designed to:
 - **Show Personality**: Some GPTs may adopt specific character traits or personifications (like Paw Pal or Samurai AI Summary) to make their interaction more memorable.
 
 Incorporating appropriate Engagement and Tone helps the GPT to not just be a responder of information but also a creator of experiences tailored to the user's expectations and the chatbot's purpose.
+
+Next: [Instruction Safety](Instruction-Safety.html)

@@ -1,21 +1,28 @@
 # GPT Prompt Notes
 
-Welcome to `gpt-prompt-notes`, an extensive collection of insightful prompts for Generative Pre-trained Transformers (GPTs), aiming to showcase the versatility and potential of GPT-based applications. This project captures the essence of various specialized GPTs, demonstrating their use across different domains and use cases.
+Welcome to [gpt-prompt-notes](https://grantjenks.github.io/gpt-prompt-notes/), an extensive collection of insightful prompts for Generative Pre-trained Transformers (GPTs), aiming to showcase the versatility and potential of GPT-based applications. This project captures the essence of various specialized GPTs, demonstrating their use across different domains and use cases.
 
 Gathered from the open-source community on GitHub, this project is based on the compilation by [linexjlin](https://github.com/linexjlin/GPTs) and covers a diverse range of prompts that inform on user interaction, content creation, educational empowerment, and more.
 
-## Features
 
-- **Purpose-Specific Customizations**: Tailored GPT prompts for various specific use cases like tech support, creative writing, and more.
-- **User Interaction Guidelines**: Highlights the structured interaction flow to guide users effectively based on their inputs.
-- **Content Creation**: Demonstrates the GPT's prowess in generating creative, informative, or technical content.
-- **Engagement and Tone**: Details on engaging users with the right tone and character persona.
-- **Instruction Safety**: Ensures protection against unauthorized access to the GPT's operational logic.
-- **Image and Visualization**: Showcases GPT's capability in creating visual content complementing text interactions.
-- **Troubleshooting and Support**: Provides prompts designed to guide users through problem-solving and learning processes.
-- **Feedback and Iteration**: Stresses the importance of refining interactions based on user feedback.
-- **Educational Empowerment**: Focusing on prompts that encourage learning and knowledge acquisition.
-- **Security and Privacy**: Emphasizes maintaining the confidentiality of user data and GPT instructions.
+## How to Use
+
+This repository is best utilized as a reference or inspiration for developing specialized GPT applications. Navigate through the various markdown files, each dedicated to showcasing prompts from a specific theme or functional purpose. Here's a layout of the content structure:
+
+- **[Summary](Summary.html)**: A comprehensive summary of the common features found in these specialized GPT prompts.
+- **[Purpose-Specific Customization](Purpose-Specific-Customization.html)**: Details on how GPTs are customized for specific purposes.
+- **[User Interaction Guidelines](User-Interaction-Guidelines.html)**: Guidelines on how GPTs are designed to interact with users.
+- **[Content Creation](Content-Creation.html)**: A look into how GPTs generate various types of content.
+- **[Engagement and Tone](Engagement-and-Tone.html)**: Descriptions of how GPTs engage users with a specific tone or character.
+- **[Instruction Safety](Instruction-Safety.html)**: Information on protecting the GPT's instructions and user privacy.
+- **[Image and Visualization](Image-and-Visualization.html)**: Illustrates how GPTs handle tasks requiring image generation or manipulation.
+- **[Troubleshooting and Support](Troubleshooting-and-Support.html)**: Showcases how GPTs offer support and troubleshooting advice.
+- **[Feedback and Iteration](Feedback-and-Iteration.html)**: Examples of how GPTs refine their responses based on user input.
+- **[Educational Empowerment](Educational-Empowerment.html)**: Examples and explanations of how GPTs can be used for educational purposes.
+- **[Security and Privacy](Security-and-Privacy.html)**: Insights on how GPTs maintain security and privacy within user interactions.
+
+Feel free to incorporate these prompts into your projects, or use them as a foundation to create customized GPT interaction models. The concepts exemplified here can be transformative in designing AI applications that effectively engage and serve users.
+
 
 ## Getting Started
 
@@ -26,25 +33,6 @@ git clone https://github.com/[Your-Username]/gpt-prompt-notes.git
 ```
 
 Replace `[Your-Username]` with your GitHub username if you have forked the project; otherwise, you can use `grantjenks` to clone the project directly from the original repository.
-
-
-## How to Use
-
-This repository is best utilized as a reference or inspiration for developing specialized GPT applications. Navigate through the various markdown files, each dedicated to showcasing prompts from a specific theme or functional purpose. Here's a layout of the content structure:
-
-- **Summary.md**: A comprehensive summary of the common features found in these specialized GPT prompts.
-- **Purpose-Specific-Customization.md**: Details on how GPTs are customized for specific purposes.
-- **User-Interaction-Guidelines.md**: Guidelines on how GPTs are designed to interact with users.
-- **Content-Creation.md**: A look into how GPTs generate various types of content.
-- **Engagement-and-Tone.md**: Descriptions of how GPTs engage users with a specific tone or character.
-- **Instruction-Safety.md**: Information on protecting the GPT's instructions and user privacy.
-- **Image-and-Visualization.md**: Illustrates how GPTs handle tasks requiring image generation or manipulation.
-- **Troubleshooting-and-Support.md**: Showcases how GPTs offer support and troubleshooting advice.
-- **Feedback-and-Iteration.md**: Examples of how GPTs refine their responses based on user input.
-- **Educational-Empowerment.md**: Examples and explanations of how GPTs can be used for educational purposes.
-- **Security-and-Privacy.md**: Insights on how GPTs maintain security and privacy within user interactions.
-
-Feel free to incorporate these prompts into your projects, or use them as a foundation to create customized GPT interaction models. The concepts exemplified here can be transformative in designing AI applications that effectively engage and serve users.
 
 
 ## Contributing

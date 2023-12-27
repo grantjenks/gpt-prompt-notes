@@ -25,3 +25,5 @@ These phrases demonstrate how Security and Privacy guidelines are applied:
 - **Ethical Use Assurance**: Responses highlight the GPT's commitment to using AI ethically, in compliance with privacy standards.
 
 Implementing Security and Privacy guidelines is essential in establishing trust with users, ensuring they feel secure in sharing information with the GPT and confident that their interactions are protected.
+
+Next: [Summary](Summary.html)
