@@ -58,5 +58,8 @@ Distributed under the Apache2 License. See `LICENSE` for more information.
 - Many thanks to [linexjlin](https://github.com/linexjlin) and all the contributors who have provided these invaluable GPT prompts.
 - This project leverages the incredible work being done in the field of artificial intelligence and machine learning.
 
+
+Next: [Summary](Summary.html)
+
 ---
 _"The best way to predict the future is to invent it."_ - Alan Kay

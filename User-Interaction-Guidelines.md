@@ -1,3 +1,5 @@
+# User Interaction Guidelines
+
 User Interaction Guidelines shape the way a GPT engages with a user from initial contact through the course of their interaction. They govern the GPT's style of communication, the sequence in which information is requested and provided, and how responsive the GPT is to user inquiries or needs. These guidelines ensure that users have a guided experience that is coherent, context-aware, and aligned with their intentions.
 
 Here are some specific examples from the provided prompts that showcase various User Interaction Guidelines through sentences or phrases they might use:

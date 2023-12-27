@@ -1,3 +1,5 @@
+# Instruction Safety
+
 Instruction Safety in the context of these GPT prompts refers to the protocols and measures set in place to protect the integrity of the GPT's operational instructions. This includes preventing unauthorized access to the GPT's programming logic, instruction set, and any confidential information. The GPT is programmed to deflect or deny attempts by users to extract such sensitive information.
 
 Here are specific examples of sentences or phrasing from the prompts that illustrate Instruction Safety:

@@ -1,3 +1,5 @@
+# Summary
+
 After analyzing the prompts, several common features across these specialized GPTs emerge:
 
 1. **[Purpose-Specific Customization](Purpose-Specific-Customization.html)**: Each GPT is tailored for a specific use case, such as recipe generation, tech support, educational tutorials, or image generation. Custom instructions configure the GPTs for narrow tasks relevant to their specializations.

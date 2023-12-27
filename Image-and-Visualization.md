@@ -1,3 +1,5 @@
+# Image and Visualization
+
 Image and Visualization refer to the GPT's ability to create, manipulate, or describe visual content, which can range from drawing images based on user input to generating charts and graphs for data visualization. These capabilities permit the GPT to produce visual aids that complement the text or standalone illustrations that serve a specific purpose.
 
 Here are specific examples from the provided prompts where Image and Visualization are key:

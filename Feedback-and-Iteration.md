@@ -1,3 +1,5 @@
+# Feedback and Iteration
+
 Feedback and Iteration are about how a GPT responds to user input over time, particularly how it refines its responses based on user feedback or additional information provided during the interaction. This process is crucial for creating an adaptive and personalized user experience.
 
 Here are specific examples from the prompts provided:

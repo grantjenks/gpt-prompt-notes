@@ -1,3 +1,5 @@
+# Troubleshooting and Support
+
 Troubleshooting and Support feature prominently in GPT prompts that focus on resolving user issues or guiding them through processes. This includes technical support, educational assistance, or advice on complex tasks. The underlying principle is to provide step-by-step guidance and actionable solutions that lead to problem resolution or knowledge enrichment.
 
 Here are specific examples from the provided prompts that illustrate Troubleshooting and Support:

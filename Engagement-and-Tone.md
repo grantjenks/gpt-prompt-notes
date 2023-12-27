@@ -1,3 +1,5 @@
+# Engagement and Tone
+
 Engagement and Tone refer to the way GPT engages with users, which can range from the kind of language used, the tone of conversation, to the character or persona it adopts. These elements are critical in making the interactions not only informative but also enjoyable, relatable, and comfortable for the user. 
 
 Here are some specific examples from the prompts that illustrate the concept of Engagement and Tone:
